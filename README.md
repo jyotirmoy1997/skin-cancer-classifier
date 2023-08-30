@@ -20,12 +20,12 @@
 
 ## Pre-processing Pipeline Stage 1
 
-![](/assets/Pipeline_1.jpg)
+![](https://res.cloudinary.com/dst1eqcmo/image/upload/v1693383849/GitHub%20Readme/Skin%20Cancer%20Project/Pipeline_1_absfy3.jpg)
 
 ## Pre-processing Pipeline Stage 2
 
-![](/assets/Pipeline_2.jpg)
+![](https://res.cloudinary.com/dst1eqcmo/image/upload/v1693383851/GitHub%20Readme/Skin%20Cancer%20Project/Pipeline_2_r4py35.jpg)
 
 ## Architecture of Deep Convolutional Neural Network
 
-![](/assets/CNN.jpg)
+![](https://res.cloudinary.com/dst1eqcmo/image/upload/v1693383850/GitHub%20Readme/Skin%20Cancer%20Project/CNN_yf6mhw.jpg)
